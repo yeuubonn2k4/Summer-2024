@@ -8,13 +8,6 @@
 
 Vi du :
 
-1. M= 5*7*11=385
-
-2. M1=385/5=77,   M2=385/7=55,  M3=385/11=35
-
-3. The inverses are M1-1=10,M2-1=4,M3-1=16
-
-4. x= 
-5. 
+![image](https://github.com/user-attachments/assets/498133fa-0d58-42bc-8dfa-e4f3a7c1defc)
 
 
