@@ -8,7 +8,7 @@ B1 :
 
 - chon so e thuong la 65537
 
-- Tinh d : d = pow(-1,e,n)
+- Tinh d : d = pow(-1,e,phi )
 
 B2 : public se la `(n,e)`    , private la `(n,d)`
 
