@@ -6,5 +6,5 @@ p = ...
 q = ....
 e = 65537
 phi = (p-1) * (q-1)
-m (khoa rieng ) = pow(e,-1,phi)
+d (khoa rieng ) = pow(e,-1,phi)
 print(m)
